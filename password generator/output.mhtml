@@ -1,0 +1,122 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/password%20generator/index.html
+Subject: Document
+Date: Sat, 3 Feb 2024 21:51:41 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--IKlhKuqL51zRXchD4NHOIM6ueYlxQFmwzyUtsufnQw----"
+
+
+------MultipartBoundary--IKlhKuqL51zRXchD4NHOIM6ueYlxQFmwzyUtsufnQw----
+Content-Type: text/html
+Content-ID: <frame-CDB48FD32226092323B0FC9899B4BACB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/password%20generator/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+ =20
+  <title>Document</title>
+<link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/password%20generator=
+/index.css?_cacheOverride=3D1706977224504"></head>
+<body>
+  <h1 style=3D"text-align: center;font-family: 'Franklin Gothic Medium', 'A=
+rial Narrow', Arial, sans-serif;">PASSWORD GENERATOR</h1>
+  <div class=3D"main">
+    <div class=3D"passbox">
+      <span id=3D"pass-box"></span>
+      <div class=3D"row">
+        <div class=3D"left">
+          Password Length
+        </div>
+        <div class=3D"right">
+          <input type=3D"number" name=3D"" id=3D"total-char" checked=3D"" s=
+tyle=3D"width:90px;">
+        </div>
+      </div>
+      <div class=3D"row">
+        <label for=3D"upper-case">
+        <div class=3D"left">
+          contains Uppercase
+        </div>
+        </label>
+        <div class=3D"right">
+          <input type=3D"checkbox" name=3D"" id=3D"upper-case" checked=3D""=
+>
+        </div>
+      </div>
+      <div class=3D"row">
+        <label for=3D"lower-case">
+        <div class=3D"left">
+          contains Lowercase
+        </div>
+        </label>
+        <div class=3D"right">
+          <input type=3D"checkbox" name=3D"" id=3D"lower-case" checked=3D""=
+>
+        </div>
+      </div>
+      <div class=3D"row">
+        <label for=3D"symbol">
+        <div class=3D"left">
+          contains Symbol
+        </div>
+        </label>
+        <div class=3D"right">
+          <input type=3D"checkbox" name=3D"" id=3D"symbol" checked=3D"">
+        </div>
+      </div>
+      <div class=3D"row">
+        <label for=3D"symbol">
+        <div class=3D"left">
+          contains numbers
+        </div>
+        </label>
+        <div class=3D"right">
+          <input type=3D"checkbox" name=3D"" id=3D"number" checked=3D"">
+        </div>
+      </div>
+      <div class=3D"row">
+        <button id=3D"btn">Generate</button>
+      </div>
+    </div>
+  </div>
+ =20
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--IKlhKuqL51zRXchD4NHOIM6ueYlxQFmwzyUtsufnQw----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/password%20generator/index.css?_cacheOverride=1706977224504
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; font-family: Roboto,=
+ sans-serif; }
+
+input:focus-visible { outline: 0px; font-size: 30px; }
+
+.main { padding: 15px; color: white; display: flex; justify-content: center=
+; align-items: center; }
+
+.passbox { min-width: 400px; padding: 23px; box-shadow: rgba(0, 0, 0, 0.5) =
+0px 4px 10px; background-color: rgb(41, 43, 43); border-radius: 2px; margin=
+-top: 10px; }
+
+#pass-box { width: 100%; display: block; background-color: white; color: bl=
+ack; opacity: 0.8; font-size: 30px; padding: 10px; border-radius: 4px; }
+
+.row { margin: 10px; width: 100%; display: flex; justify-content: space-bet=
+ween; }
+
+label { user-select: none; }
+
+#btn { width: 100%; font-size: 25px; color: rgb(19, 13, 13); background-col=
+or: coral; padding: 15px; margin-top: 10px; border-radius: 8px; }
+------MultipartBoundary--IKlhKuqL51zRXchD4NHOIM6ueYlxQFmwzyUtsufnQw------
